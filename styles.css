@@ -8,10 +8,10 @@
   font-family: "Roboto Mono", monospace;
   box-sizing: border-box;
 
-  --primary-color: #2c3333;
-  --secondary-color: #395b64;
-  --accent-1: #a5c9ca;
-  --accent-2: #e7f6f2;
+  --primary-color: #1f2f2e;
+  --secondary-color: #2f4f4f;
+  --accent-1: #8fbfb6;
+  --accent-2: #e6f5f2;
 
   --neutral-1: black;
   --neutral-2: white;
