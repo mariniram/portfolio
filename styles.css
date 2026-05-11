@@ -312,10 +312,6 @@ section {
 .project-card > p {
   font-size: 12px;
   width: 100%;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  overflow: hidden;
 }
 
 .project-img {
